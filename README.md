@@ -38,23 +38,31 @@ Users can select any dashboard they want to view:
 - **🏙️ Shipping Dashboard**: Region-wise analysis of supply chain efficiency.
 - **👨‍👩‍👧 Customer Dashboard**: Customer segmentation and purchasing trends.
 - **📦 Profit and Sales Dashboard**: Delivery performance, delays, and logistics insights.
+![Screenshot 2025-04-02 173008](https://github.com/user-attachments/assets/16a6b358-7eb1-46f1-8fa7-e02445c0d5e3)
+
 ### 💼 Order Analysis
 - Total Orders: **65.75K**
 - Orders Completed: **21.72K**
 - Orders Cancelled: **1,367**
 - Orders declining in **2018**, indicating potential supply chain issues.
 
+![Screenshot 2025-04-02 172859](https://github.com/user-attachments/assets/d4109840-3b31-4bbd-81d3-66ebd71b0842)
+
 ### 🌐 Shipping Performance
 - Shipping on Time: **32.20K**
 - Late Deliveries: **98.98K (54.83%)** - Critical concern.
 - Standard Class has the highest delays.
 - **Footwear and Apparel** categories experience maximum shipping delays.
+![Screenshot 2025-04-02 172921](https://github.com/user-attachments/assets/2b377bde-6463-451f-ad0f-326c09f7fcc2)
+
 
 ### 💳 Customer Insights
 - **Top-Selling Products:** Fishing, Cleats, Camping & Hiking.
 - **Consumer Segment:** 51.8% of total sales.
 - High-value customer **Mary Smith** significantly outspends others.
 - Major revenue hubs: **Los Angeles, Chicago, Miami, New York, Houston**.
+![Screenshot 2025-04-02 172941](https://github.com/user-attachments/assets/b1470d2c-ab85-4038-80db-e52846d83309)
+
 
 ### 💰 Profit & Sales Analysis
 - **Total Sales:** $36.78M
@@ -62,6 +70,8 @@ Users can select any dashboard they want to view:
 - Sales and profits declined in **2018-2019**, requiring further analysis.
 - **Standard Class shipping is the most profitable**, while Same Day delivery has the lowest margins.
 - **Field & Stream, Perfect Fitness, and Diamondback** are the highest-selling brands.
+![Screenshot 2025-04-02 172954](https://github.com/user-attachments/assets/44db40e2-acf3-497c-bdef-4ab704714459)
+
 
 ## 📈 Key Insights
 - **Late deliveries (54.83%)** are a significant issue, impacting customer satisfaction.
