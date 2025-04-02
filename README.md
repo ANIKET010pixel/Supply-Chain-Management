@@ -34,6 +34,17 @@ This project aims to address these challenges using data-driven insights.
 - Orders Cancelled: **1,367**
 - Orders declining in **2018**, indicating potential supply chain issues.
 
+## 📊 Navigation Homepage
+
+Users can select any dashboard they want to view:
+
+- **📊 Executive Dashboard**: High-level insights into supply chain performance.
+- **🏙️ City Dashboard**: Region-wise analysis of supply chain efficiency.
+- **👨‍👩‍👧 Customer Dashboard**: Customer segmentation and purchasing trends.
+- **📦 Shipping Dashboard**: Delivery performance, delays, and logistics insights.
+
+
+
 ### 🌐 Shipping Performance
 - Shipping on Time: **32.20K**
 - Late Deliveries: **98.98K (54.83%)** - Critical concern.
