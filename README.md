@@ -4,7 +4,7 @@ This repository contains an in-depth analysis of supply chain operations, focusi
 
 ## 📚 Introduction
 Supply chain management is crucial for optimizing logistics, reducing delivery delays, and improving customer satisfaction. This project provides a comprehensive dashboard that analyzes order trends, shipping performance, customer segments, and profit margins.
-![](https://cdn.dribbble.com/userupload/42108610/file/original-64ec204cb9e7d8484a72377001d2058f.gif)
+[](https://cdn.dribbble.com/userupload/42108610/file/original-64ec204cb9e7d8484a72377001d2058f.gif)
 
 ## ⚠️ Problem Statement
 Companies often face challenges in:
