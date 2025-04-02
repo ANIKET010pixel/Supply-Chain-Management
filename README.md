@@ -28,13 +28,7 @@ This project aims to address these challenges using data-driven insights.
 - **Tools:** Excel, Power BI Desktop, Power BI Service, SQL, PowerPoint
 
 ## 📊 Data Summary
-### 💼 Order Analysis
-- Total Orders: **65.75K**
-- Orders Completed: **21.72K**
-- Orders Cancelled: **1,367**
-- Orders declining in **2018**, indicating potential supply chain issues.
-
-## 📊 Navigation Homepage
+### 📊 Navigation Homepage
 
 Users can select any dashboard they want to view:
 
@@ -42,8 +36,11 @@ Users can select any dashboard they want to view:
 - **🏙️ City Dashboard**: Region-wise analysis of supply chain efficiency.
 - **👨‍👩‍👧 Customer Dashboard**: Customer segmentation and purchasing trends.
 - **📦 Shipping Dashboard**: Delivery performance, delays, and logistics insights.
-
-
+### 💼 Order Analysis
+- Total Orders: **65.75K**
+- Orders Completed: **21.72K**
+- Orders Cancelled: **1,367**
+- Orders declining in **2018**, indicating potential supply chain issues.
 
 ### 🌐 Shipping Performance
 - Shipping on Time: **32.20K**
