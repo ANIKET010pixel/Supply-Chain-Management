@@ -32,10 +32,10 @@ This project aims to address these challenges using data-driven insights.
 
 Users can select any dashboard they want to view:
 
-- **📊 Executive Dashboard**: High-level insights into supply chain performance.
-- **🏙️ City Dashboard**: Region-wise analysis of supply chain efficiency.
+- **📊 Order Dashboard**: High-level insights into supply chain performance.
+- **🏙️ Shipping Dashboard**: Region-wise analysis of supply chain efficiency.
 - **👨‍👩‍👧 Customer Dashboard**: Customer segmentation and purchasing trends.
-- **📦 Shipping Dashboard**: Delivery performance, delays, and logistics insights.
+- **📦 Profit and Sales Dashboard**: Delivery performance, delays, and logistics insights.
 ### 💼 Order Analysis
 - Total Orders: **65.75K**
 - Orders Completed: **21.72K**
