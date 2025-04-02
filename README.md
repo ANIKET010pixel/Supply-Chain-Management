@@ -83,11 +83,6 @@ Users can select any dashboard they want to view:
 - **SQL Scripts:** Data extraction and transformation queries.
 - **Presentation:** Summary of findings and recommendations.
 
-## 📂 Links
-- 🌐 [Live Dashboard](#)
-- 📚 [Presentation](#)
-- 🌟 [LinkedIn Post](#)
-
 ## 🌟 About
 A data-driven analysis of **supply chain performance** using **Power BI and SQL**, offering actionable insights to optimize **orders, shipping, customer engagement, and profitability**.
 
