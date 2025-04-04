@@ -90,8 +90,6 @@ Users can select any dashboard they want to view:
 
 ## 📚 Project Files
 - **Power BI Dashboard:** Interactive report with visual insights.
-- **SQL Scripts:** Data extraction and transformation queries.
-- **Presentation:** Summary of findings and recommendations.
 
 ## Tableau Dashboard (https://public.tableau.com/app/profile/aniket.lokhande5528/viz/SupplyChainManagement-2/Dashboard1)
 
