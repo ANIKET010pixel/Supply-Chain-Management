@@ -1,6 +1,6 @@
 # 🛠️ Supply Chain Management
 
-This repository contains an in-depth analysis of supply chain operations, focusing on order processing, shipping performance, customer insights, and profitability. The project leverages **Power BI** for data visualization and **SQL** for data analysis to uncover key trends and business insights.
+This repository contains an in-depth analysis of supply chain operations, focusing on order processing, shipping performance, customer insights, and profitability. The project leverages **Tableau/Power BI** for data visualization and **SQL** for data analysis to uncover key trends and business insights.
 
 ## 📚 Introduction
 Supply chain management is crucial for optimizing logistics, reducing delivery delays, and improving customer satisfaction. This project provides a comprehensive dashboard that analyzes order trends, shipping performance, customer segments, and profit margins.
@@ -92,6 +92,8 @@ Users can select any dashboard they want to view:
 - **Power BI Dashboard:** Interactive report with visual insights.
 - **SQL Scripts:** Data extraction and transformation queries.
 - **Presentation:** Summary of findings and recommendations.
+
+## Tableau Dashboard (https://public.tableau.com/app/profile/aniket.lokhande5528/viz/SupplyChainManagement-2/Dashboard1)
 
 ## 🌟 About
 A data-driven analysis of **supply chain performance** using **Power BI and SQL**, offering actionable insights to optimize **orders, shipping, customer engagement, and profitability**.
